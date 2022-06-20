@@ -1,0 +1,1 @@
+cd C:\Users\galex\OneDrive\Dev\Personal\neko_gifts\ && python neko.py
